@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">501_A4</string>
+    <string name="app_name">LifeTracker</string>
+    <string name="life_tracker_title">LifeTracker</string>
+    <string name="toggle_snackbar_label">Snackbars</string>
+    <string name="current_state_title">Current state</string>
+    <string name="waiting_for_events">Waiting for lifecycle events...</string>
+    <string name="current_event_subtitle">Lifecycle event in progress</string>
+    <string name="log_placeholder_title">Lifecycle logs will appear once events occur.</string>
+    <string name="log_placeholder_hint">Interact with the app or rotate the device to generate more transitions.</string>
+    <string name="snackbar_message">%1$s at %2$s</string>
 </resources>
